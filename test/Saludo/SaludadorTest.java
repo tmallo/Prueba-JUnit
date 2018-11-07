@@ -5,6 +5,7 @@ import org.junit.Test;
 
 public class SaludadorTest{
 
+    /*
     @Test
     public void saludarFalla() {
     
@@ -12,7 +13,8 @@ public class SaludadorTest{
         String resultado = saludador.saludar();        
         Assert.assertEquals("chau", resultado); //deberia fallar
     }
-
+    */
+    
 
     @Test
     public void saludarFuncionaCorrectamente() {
