@@ -1,5 +1,5 @@
 # Prueba-JUnit
 
-https://img.shields.io/codecov/c/github/codecov/example-python.svg
+[![Build Status](https://travis-ci.org/tmallo/Prueba-JUnit.svg?branch=master)](https://travis-ci.org/tmallo/Prueba-JUnit)
 
 Pruebo el funcionamiento correcto de un proyecto, usando JUnit, Apache ant y Travis.
