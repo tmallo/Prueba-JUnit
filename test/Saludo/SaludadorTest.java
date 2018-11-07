@@ -20,7 +20,7 @@ public class SaludadorTest{
     public void saludarFuncionaCorrectamente() {
     
         Saludador saludador = new Saludador();
-        String resultado = saludador.saludar();        
-        Assert.assertEquals("hola", resultado); //deberia estar bien
+        String result = saludador.saludar();        
+        Assert.assertEquals("hola", result); //deberia estar bien
     }
 }
