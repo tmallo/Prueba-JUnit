@@ -4,4 +4,8 @@
 
 
 
+[![codecov](https://codecov.io/gh/tmallo/Prueba-JUnit/branch/master/graph/badge.svg)](https://codecov.io/gh/tmallo/Prueba-JUnit)
+
+
+
 Pruebo el funcionamiento correcto de un proyecto, usando JUnit, Apache ant y Travis.
